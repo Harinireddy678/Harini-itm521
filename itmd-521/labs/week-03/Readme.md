@@ -40,21 +40,14 @@ You are to take the sample code listed in Chapter 02, the MnMCount for both Pyth
 Make sure the `vagrant@your-initials` is in the screenshot
 
 ### PySpark ScreenShot
+<img width="944" alt="harini-pysc" src="https://github.com/illinoistech-itm/bharini/assets/156153076/07c66ab0-24b1-4943-bd1e-debe9d2b6450">
 
-Place PySpark screenshot here
+
 
 ### SBT build Output Screenshot
+<img width="806" alt="sbt-build harini" src="https://github.com/illinoistech-itm/bharini/assets/156153076/cfb3da68-b9b4-4c8c-8052-4fc88d639fa1">
 
-Place screenshot here
+
 
 ### Spark Scala ScreenShot
-
-Place Scala screenshot here
-
-## Deliverables
-
-Using this template, under the `itmd-521` directory in your local repository, create a sub-directory named `labs`. Under that create another subdirectory named `week-03` and place this Readme.md file in that directory along with a folder for images.
-
-You also need to include your python and scala code and the `build.sbt` file. Push the code to your remote GitHub repo and submit the URL to this location in Blackboard.
-
-Do not push any data files into your GitHub repo
+<img width="859" alt="harni-sbt scala" src="https://github.com/illinoistech-itm/bharini/assets/156153076/6f2ce0a8-44f2-4955-b979-38ea5460fc14">
