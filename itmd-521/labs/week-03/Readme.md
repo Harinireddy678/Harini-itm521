@@ -40,14 +40,13 @@ You are to take the sample code listed in Chapter 02, the MnMCount for both Pyth
 Make sure the `vagrant@your-initials` is in the screenshot
 
 ### PySpark ScreenShot
-<img width="944" alt="harini-pysc" src="https://github.com/illinoistech-itm/bharini/assets/156153076/07c66ab0-24b1-4943-bd1e-debe9d2b6450">
 
 
 
 ### SBT build Output Screenshot
-<img width="806" alt="sbt-build harini" src="https://github.com/illinoistech-itm/bharini/assets/156153076/cfb3da68-b9b4-4c8c-8052-4fc88d639fa1">
+
 
 
 
 ### Spark Scala ScreenShot
-<img width="859" alt="harni-sbt scala" src="https://github.com/illinoistech-itm/bharini/assets/156153076/6f2ce0a8-44f2-4955-b979-38ea5460fc14">
+
